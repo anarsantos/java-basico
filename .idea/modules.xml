@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ClasseTeste/ClasseTeste.iml" filepath="$PROJECT_DIR$/ClasseTeste/ClasseTeste.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HoraDoSistema/HoraDoSistema.iml" filepath="$PROJECT_DIR$/HoraDoSistema/HoraDoSistema.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IdiomaDoSistema/IdiomaDoSistema.iml" filepath="$PROJECT_DIR$/IdiomaDoSistema/IdiomaDoSistema.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OlaMundoJavaFx/OlaMundoJavaFx.iml" filepath="$PROJECT_DIR$/OlaMundoJavaFx/OlaMundoJavaFx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PrimeiroPrograma/PrimeiroPrograma.iml" filepath="$PROJECT_DIR$/PrimeiroPrograma/PrimeiroPrograma.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ResolucaoDaTela/ResolucaoDaTela.iml" filepath="$PROJECT_DIR$/ResolucaoDaTela/ResolucaoDaTela.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SomaDoisNum/SomaDoisNum.iml" filepath="$PROJECT_DIR$/SomaDoisNum/SomaDoisNum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TesteTipos/TesteTipos.iml" filepath="$PROJECT_DIR$/TesteTipos/TesteTipos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TiposPrimitivos/TiposPrimitivos.iml" filepath="$PROJECT_DIR$/TiposPrimitivos/TiposPrimitivos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java-basico.iml" filepath="$PROJECT_DIR$/.idea/java-basico.iml" />
+    </modules>
+  </component>
+</project>
