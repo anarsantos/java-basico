@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ClasseTeste/ClasseTeste.iml" filepath="$PROJECT_DIR$/ClasseTeste/ClasseTeste.iml" />
-      <module fileurl="file://$PROJECT_DIR$/HoraDoSistema/HoraDoSistema.iml" filepath="$PROJECT_DIR$/HoraDoSistema/HoraDoSistema.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CalculaIdade/CalculaIdade.iml" filepath="$PROJECT_DIR$/CalculaIdade/CalculaIdade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataAtual/DataAtual.iml" filepath="$PROJECT_DIR$/DataAtual/DataAtual.iml" />
       <module fileurl="file://$PROJECT_DIR$/IdiomaDoSistema/IdiomaDoSistema.iml" filepath="$PROJECT_DIR$/IdiomaDoSistema/IdiomaDoSistema.iml" />
       <module fileurl="file://$PROJECT_DIR$/OlaMundoJavaFx/OlaMundoJavaFx.iml" filepath="$PROJECT_DIR$/OlaMundoJavaFx/OlaMundoJavaFx.iml" />
       <module fileurl="file://$PROJECT_DIR$/PrimeiroPrograma/PrimeiroPrograma.iml" filepath="$PROJECT_DIR$/PrimeiroPrograma/PrimeiroPrograma.iml" />
