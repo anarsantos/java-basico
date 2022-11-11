@@ -27,13 +27,13 @@ public class CalculaIdade {
 
         SimpleDateFormat formatacaoAno = new SimpleDateFormat(padraoDataAno);
         // A linha abaixo formata o ano e pega no sistema, através da classe Date, a data atual
-        String date = formatacaoAno.format(new Date());
-        System.out.println("Ano atual " + date + ".");
+        String dataDoSistema = formatacaoAno.format(new Date());
+        System.out.println("Ano atual " + dataDoSistema + ".");
 
         System.out.print("Digite o ano do seu nascimento: ");
         anoNascimento = teclado.nextInt();
 
-        idade = Integer.parseInt(date) - anoNascimento;
+        idade = Integer.parseInt(dataDoSistema) - anoNascimento;
         System.out.println("Você tem " + idade + " anos.");
 
     }
