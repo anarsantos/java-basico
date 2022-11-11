@@ -7,7 +7,7 @@ import java.util.Scanner;
 public class CalculaIdade {
     public static void main(String[] args) {
         Scanner teclado = new Scanner(System.in);
-        /* O usuário digita as datas
+        /*O usuário digita as datas
         //variáveis
         int anoAtual;
         int anoNascimento;
@@ -21,11 +21,12 @@ public class CalculaIdade {
         System.out.print("Você tem " + idade + " anos.");*/
 
         // O usuário digita apenas a data de nascimento, o ano atual o sistema informa
-        String ano = "yyyy";
+        String padraoDataAno = "yyyy";
         int anoNascimento;
         int idade;
 
-        SimpleDateFormat formatacaoAno = new SimpleDateFormat(ano);
+        SimpleDateFormat formatacaoAno = new SimpleDateFormat(padraoDataAno);
+        // A linha abaixo formata o ano e pega no sistema, através da classe Date, a data atual
         String date = formatacaoAno.format(new Date());
         System.out.println("Ano atual " + date + ".");
 
@@ -34,5 +35,6 @@ public class CalculaIdade {
 
         idade = Integer.parseInt(date) - anoNascimento;
         System.out.println("Você tem " + idade + " anos.");
+
     }
 }
