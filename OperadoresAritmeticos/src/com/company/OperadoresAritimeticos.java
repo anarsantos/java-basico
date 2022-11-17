@@ -13,7 +13,7 @@ public class OperadoresAritimeticos {
         numero--;
         System.out.println(numero);*/
 
-        //Pós incremento - ++ depois faça todas as operações e no final soma mais 1 no número.
+        //Pós incremento - ++ depois, faça todas as operações e no final soma mais 1 no número. O valor = 10 e numero = 6
         /*int numero = 5;
         int valor = 5 + numero++;
         System.out.println(valor);
@@ -49,8 +49,31 @@ public class OperadoresAritimeticos {
         System.out.println(aleatorio);*/
 
         // Número aleatório entre 5 e 10
-        double aleatorio = Math.random();
+        /*double aleatorio = Math.random();
         int numero = (int) (5 + aleatorio * (10 - 5));
-        System.out.println(numero);
+        System.out.println(numero);*/
+
+        // O resultado é 5.
+        /*int n = 4;
+        System.out.println("O valor da variável é " + ++n);*/
+
+        // Exercício 1 - O valor de n = 4 e resultado = 5.
+        /*int n = 4;
+        System.out.println("O valor da variável n é " + n++);
+        int resultado = n;
+        System.out.println("O valor da variável resultado é " + resultado);*/
+
+        // Exercício 2 - O resultado da divisão do número inteiro é 2.5, mas como o tipo da variável resultado está em double ficará 2.0.
+        /*int n1 = 2;
+        int n2 = 5;
+        double resultado = n2/n1;
+        System.out.println(resultado);*/
+
+        // Exercício 3 - O resultado é 7 1 3.
+        int v1 = 7;
+        int v2 = v1 % 2;
+        int v3 = 2;
+        v3 += v2;
+        System.out.println(v1 + " " + v2 + " " + v3);
     }
 }

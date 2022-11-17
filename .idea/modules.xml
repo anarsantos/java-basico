@@ -12,6 +12,7 @@
       <module fileurl="file://$PROJECT_DIR$/PrimeiroPrograma/PrimeiroPrograma.iml" filepath="$PROJECT_DIR$/PrimeiroPrograma/PrimeiroPrograma.iml" />
       <module fileurl="file://$PROJECT_DIR$/ResolucaoDaTela/ResolucaoDaTela.iml" filepath="$PROJECT_DIR$/ResolucaoDaTela/ResolucaoDaTela.iml" />
       <module fileurl="file://$PROJECT_DIR$/SomaDoisNum/SomaDoisNum.iml" filepath="$PROJECT_DIR$/SomaDoisNum/SomaDoisNum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SuperCalculadora/SuperCalculadora.iml" filepath="$PROJECT_DIR$/SuperCalculadora/SuperCalculadora.iml" />
       <module fileurl="file://$PROJECT_DIR$/TesteTipos/TesteTipos.iml" filepath="$PROJECT_DIR$/TesteTipos/TesteTipos.iml" />
       <module fileurl="file://$PROJECT_DIR$/TiposPrimitivos/TiposPrimitivos.iml" filepath="$PROJECT_DIR$/TiposPrimitivos/TiposPrimitivos.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java-basico.iml" filepath="$PROJECT_DIR$/.idea/java-basico.iml" />
