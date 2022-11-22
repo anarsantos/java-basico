@@ -20,7 +20,8 @@ public class OperadoresLogicos {
         resultado = (x<y || y==z)?true:false;
         System.out.println(resultado);*/
 
-        //Operador lógico ^ (ou exclusivo)
+        /*Operador lógico ^ (ou exclusivo), retorna true apenas se ambos os valores booleanos forem diferentes;
+         caso contrário, retorna false. O resultado abaixo retorna false, porque os dois resultados são true.*/
         int x, y, z;
         x = 4;
         y = 7;

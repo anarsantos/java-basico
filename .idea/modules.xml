@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/AdivinhaNum/AdivinhaNum.iml" filepath="$PROJECT_DIR$/AdivinhaNum/AdivinhaNum.iml" />
       <module fileurl="file://$PROJECT_DIR$/CalculaIdade/CalculaIdade.iml" filepath="$PROJECT_DIR$/CalculaIdade/CalculaIdade.iml" />
       <module fileurl="file://$PROJECT_DIR$/ClasseMath/ClasseMath.iml" filepath="$PROJECT_DIR$/ClasseMath/ClasseMath.iml" />
       <module fileurl="file://$PROJECT_DIR$/ComparacaoString/ComparacaoString.iml" filepath="$PROJECT_DIR$/ComparacaoString/ComparacaoString.iml" />
