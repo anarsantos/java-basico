@@ -8,15 +8,20 @@
       <module fileurl="file://$PROJECT_DIR$/ComparacaoString/ComparacaoString.iml" filepath="$PROJECT_DIR$/ComparacaoString/ComparacaoString.iml" />
       <module fileurl="file://$PROJECT_DIR$/DataAtual/DataAtual.iml" filepath="$PROJECT_DIR$/DataAtual/DataAtual.iml" />
       <module fileurl="file://$PROJECT_DIR$/DivisaoResto/DivisaoResto.iml" filepath="$PROJECT_DIR$/DivisaoResto/DivisaoResto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EquacaoSegundoGrau/EquacaoSegundoGrau.iml" filepath="$PROJECT_DIR$/EquacaoSegundoGrau/EquacaoSegundoGrau.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExercicioTernario/ExercicioTernario.iml" filepath="$PROJECT_DIR$/ExercicioTernario/ExercicioTernario.iml" />
       <module fileurl="file://$PROJECT_DIR$/IdiomaDoSistema/IdiomaDoSistema.iml" filepath="$PROJECT_DIR$/IdiomaDoSistema/IdiomaDoSistema.iml" />
       <module fileurl="file://$PROJECT_DIR$/OlaMundoJavaFx/OlaMundoJavaFx.iml" filepath="$PROJECT_DIR$/OlaMundoJavaFx/OlaMundoJavaFx.iml" />
       <module fileurl="file://$PROJECT_DIR$/OperadorTernario/OperadorTernario.iml" filepath="$PROJECT_DIR$/OperadorTernario/OperadorTernario.iml" />
       <module fileurl="file://$PROJECT_DIR$/OperadoresAritmeticos/OperadoresAritmeticos.iml" filepath="$PROJECT_DIR$/OperadoresAritmeticos/OperadoresAritmeticos.iml" />
       <module fileurl="file://$PROJECT_DIR$/OperadoresLogicos/OperadoresLogicos.iml" filepath="$PROJECT_DIR$/OperadoresLogicos/OperadoresLogicos.iml" />
       <module fileurl="file://$PROJECT_DIR$/PrimeiroPrograma/PrimeiroPrograma.iml" filepath="$PROJECT_DIR$/PrimeiroPrograma/PrimeiroPrograma.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProgramaIdade/ProgramaIdade.iml" filepath="$PROJECT_DIR$/ProgramaIdade/ProgramaIdade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProgramaMedia/ProgramaMedia.iml" filepath="$PROJECT_DIR$/ProgramaMedia/ProgramaMedia.iml" />
       <module fileurl="file://$PROJECT_DIR$/ResolucaoDaTela/ResolucaoDaTela.iml" filepath="$PROJECT_DIR$/ResolucaoDaTela/ResolucaoDaTela.iml" />
       <module fileurl="file://$PROJECT_DIR$/SomaDoisNum/SomaDoisNum.iml" filepath="$PROJECT_DIR$/SomaDoisNum/SomaDoisNum.iml" />
       <module fileurl="file://$PROJECT_DIR$/SuperCalculadora/SuperCalculadora.iml" filepath="$PROJECT_DIR$/SuperCalculadora/SuperCalculadora.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TelaParImpar/TelaParImpar.iml" filepath="$PROJECT_DIR$/TelaParImpar/TelaParImpar.iml" />
       <module fileurl="file://$PROJECT_DIR$/TesteTipos/TesteTipos.iml" filepath="$PROJECT_DIR$/TesteTipos/TesteTipos.iml" />
       <module fileurl="file://$PROJECT_DIR$/TiposPrimitivos/TiposPrimitivos.iml" filepath="$PROJECT_DIR$/TiposPrimitivos/TiposPrimitivos.iml" />
       <module fileurl="file://$PROJECT_DIR$/VerificadorIdade/VerificadorIdade.iml" filepath="$PROJECT_DIR$/VerificadorIdade/VerificadorIdade.iml" />
