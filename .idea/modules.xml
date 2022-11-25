@@ -18,6 +18,7 @@
       <module fileurl="file://$PROJECT_DIR$/PrimeiroPrograma/PrimeiroPrograma.iml" filepath="$PROJECT_DIR$/PrimeiroPrograma/PrimeiroPrograma.iml" />
       <module fileurl="file://$PROJECT_DIR$/ProgramaIdade/ProgramaIdade.iml" filepath="$PROJECT_DIR$/ProgramaIdade/ProgramaIdade.iml" />
       <module fileurl="file://$PROJECT_DIR$/ProgramaMedia/ProgramaMedia.iml" filepath="$PROJECT_DIR$/ProgramaMedia/ProgramaMedia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProgramaPerna/ProgramaPerna.iml" filepath="$PROJECT_DIR$/ProgramaPerna/ProgramaPerna.iml" />
       <module fileurl="file://$PROJECT_DIR$/ResolucaoDaTela/ResolucaoDaTela.iml" filepath="$PROJECT_DIR$/ResolucaoDaTela/ResolucaoDaTela.iml" />
       <module fileurl="file://$PROJECT_DIR$/SomaDoisNum/SomaDoisNum.iml" filepath="$PROJECT_DIR$/SomaDoisNum/SomaDoisNum.iml" />
       <module fileurl="file://$PROJECT_DIR$/SuperCalculadora/SuperCalculadora.iml" filepath="$PROJECT_DIR$/SuperCalculadora/SuperCalculadora.iml" />
@@ -25,6 +26,7 @@
       <module fileurl="file://$PROJECT_DIR$/TesteTipos/TesteTipos.iml" filepath="$PROJECT_DIR$/TesteTipos/TesteTipos.iml" />
       <module fileurl="file://$PROJECT_DIR$/TiposPrimitivos/TiposPrimitivos.iml" filepath="$PROJECT_DIR$/TiposPrimitivos/TiposPrimitivos.iml" />
       <module fileurl="file://$PROJECT_DIR$/VerificadorIdade/VerificadorIdade.iml" filepath="$PROJECT_DIR$/VerificadorIdade/VerificadorIdade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VotoObrigatorio/VotoObrigatorio.iml" filepath="$PROJECT_DIR$/VotoObrigatorio/VotoObrigatorio.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java-basico.iml" filepath="$PROJECT_DIR$/.idea/java-basico.iml" />
     </modules>
   </component>
