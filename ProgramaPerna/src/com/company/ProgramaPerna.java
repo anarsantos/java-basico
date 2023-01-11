@@ -23,7 +23,7 @@ public class ProgramaPerna {
             case 4:
                 tipo = "Quadrúpede";
                 break;
-            case 6:
+            case 6, 8:
                 tipo = "Aranha";
                 break;
             default:

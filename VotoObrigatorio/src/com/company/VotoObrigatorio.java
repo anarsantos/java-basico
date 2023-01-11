@@ -20,7 +20,7 @@ public class VotoObrigatorio {
         int idade = Integer.parseInt(dataDoSistema) - nascimento;
         System.out.println("Sua idade: " + idade);
 
-        if (idade < 16) {
+        /*if (idade < 16) {
             System.out.print("Não vota!");
         } else {
             if ((idade >= 16 && idade < 18) || (idade > 70)) {
@@ -28,6 +28,14 @@ public class VotoObrigatorio {
             } else {
                 System.out.print("Voto obrigatório!");
             }
+        }*/
+
+        if (idade < 16) {
+            System.out.print("Não vota!");
+        } else if ((idade >= 16 && idade < 18) || (idade > 70)) {
+                System.out.print("Opcional");
+        } else {
+                System.out.print("Voto obrigatório!");
         }
     }
 }
