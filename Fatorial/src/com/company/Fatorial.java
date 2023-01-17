@@ -23,12 +23,12 @@ public class Fatorial {
             }
             contador--;
         }
-        if (contador==0) {
+        /*if (contador==0) {
             System.out.println("O fatorial de 0 é 0.");
         }else {
             System.out.println("O fatorial de " + numero + "! é " + s + " = " + Integer.toString(fatorial));
-        }
+        }*/
 
-        //System.out.println("O fatorial de " + numero + "! é igual a " + fatorial);
+        System.out.println("O fatorial de " + numero + "! é igual a " + fatorial);
     }
 }
