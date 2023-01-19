@@ -10,17 +10,25 @@ public class Fatorial01 {
         System.out.print("Digite um valor: ");
         numero = teclado.nextInt();
 
-        int fatorial = 1;
-        int contador = numero;
+        if (numero < 0) {
+            System.out.println("Não aceitamos números negativo.");
+        } else {
+            int fatorial = 1;
+            int contador = numero;
 
-        //Extra
-        String s = "";
+            //Extra
+            String s = "";
 
-        while (contador>=1) {
-            fatorial *= contador;
-            s += contador + " x ";
-            contador--;
+            while (contador>=1) {
+                fatorial = fatorial * contador;
+                if (contador >1) {
+                    s = s + contador + " x ";
+                } else {
+                    s += contador;
+                }
+                contador = contador - 1;
+            }
+            System.out.println("O fatorial de " + numero + "! é " + s + " = " + fatorial);
         }
-        System.out.println("O fatorial de " + numero + "! é " + s + " = " + fatorial);
     }
 }

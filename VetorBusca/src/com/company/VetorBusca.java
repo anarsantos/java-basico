@@ -12,7 +12,7 @@ public class VetorBusca {
 
         System.out.println(" ");
 
-        //Se não encontrar a posição, será exibida no valor negativo
+        //Se não encontrar a posição, será exibido o valor negativo
         int posicao = Arrays.binarySearch(vetor, 1);
         System.out.println("Encontrei o valor na posição " + posicao);
     }

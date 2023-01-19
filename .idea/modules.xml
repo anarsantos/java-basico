@@ -19,6 +19,7 @@
       <module fileurl="file://$PROJECT_DIR$/Fatorial01/Fatorial01.iml" filepath="$PROJECT_DIR$/Fatorial01/Fatorial01.iml" />
       <module fileurl="file://$PROJECT_DIR$/FatorialFor/FatorialFor.iml" filepath="$PROJECT_DIR$/FatorialFor/FatorialFor.iml" />
       <module fileurl="file://$PROJECT_DIR$/IdiomaDoSistema/IdiomaDoSistema.iml" filepath="$PROJECT_DIR$/IdiomaDoSistema/IdiomaDoSistema.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeituraNome/LeituraNome.iml" filepath="$PROJECT_DIR$/LeituraNome/LeituraNome.iml" />
       <module fileurl="file://$PROJECT_DIR$/Numeros/Numeros.iml" filepath="$PROJECT_DIR$/Numeros/Numeros.iml" />
       <module fileurl="file://$PROJECT_DIR$/OlaMundoJavaFx/OlaMundoJavaFx.iml" filepath="$PROJECT_DIR$/OlaMundoJavaFx/OlaMundoJavaFx.iml" />
       <module fileurl="file://$PROJECT_DIR$/OperadorTernario/OperadorTernario.iml" filepath="$PROJECT_DIR$/OperadorTernario/OperadorTernario.iml" />
@@ -41,6 +42,8 @@
       <module fileurl="file://$PROJECT_DIR$/VetorFor/VetorFor.iml" filepath="$PROJECT_DIR$/VetorFor/VetorFor.iml" />
       <module fileurl="file://$PROJECT_DIR$/VetorForeach/VetorForeach.iml" filepath="$PROJECT_DIR$/VetorForeach/VetorForeach.iml" />
       <module fileurl="file://$PROJECT_DIR$/VetorMes/VetorMes.iml" filepath="$PROJECT_DIR$/VetorMes/VetorMes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VetorOpcoes/VetorOpcoes.iml" filepath="$PROJECT_DIR$/VetorOpcoes/VetorOpcoes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VetorPreencher/VetorPreencher.iml" filepath="$PROJECT_DIR$/VetorPreencher/VetorPreencher.iml" />
       <module fileurl="file://$PROJECT_DIR$/VotoObrigatorio/VotoObrigatorio.iml" filepath="$PROJECT_DIR$/VotoObrigatorio/VotoObrigatorio.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java-basico.iml" filepath="$PROJECT_DIR$/.idea/java-basico.iml" />
     </modules>

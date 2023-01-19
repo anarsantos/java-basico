@@ -9,12 +9,16 @@ public class FatorialFor {
         //int numero;
         System.out.print("Digite um número: ");
         int numero = teclado.nextInt();
-
         int fatorial = 1;
-
-        for (int contador = numero; contador >= 1; contador--) {
-            fatorial *= contador;
+        String s = "";
+        if (numero < 0) {
+            System.out.println("Números negativos não são aceitos.");
+        } else {
+            for (int contador = numero; contador >= 1; contador--) {
+                fatorial *= contador;
+                s = s + contador + " x ";
+            }
+            System.out.println("O fatorial de " + numero + "! é " + s + " = " + fatorial);
         }
-        System.out.println("O fatorial de " + numero + "! é " + fatorial);
     }
 }
