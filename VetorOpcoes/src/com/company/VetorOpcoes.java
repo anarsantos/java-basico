@@ -7,16 +7,29 @@ public class VetorOpcoes {
         Scanner teclado = new Scanner(System.in);
 
         int vetor[] = new int [5];
-        Integer numerosDigitados[] = new Integer[vetor.length];
+        int numerosDigitados;
 
         for (int contador = 0; contador <5; contador++) {
             System.out.print("Digite 5 números entre 0 e 5: ");
-            numerosDigitados[contador] = teclado.nextInt();
-            if (numerosDigitados[contador] < 0 || numerosDigitados[contador] > 5) {
+            numerosDigitados = teclado.nextInt();
+            if (numerosDigitados < 0 || numerosDigitados > 5) {
                 System.out.println("Número inválido, por favor, digite um número entre 0 e 5.");
             } else {
-                vetor[contador] = numerosDigitados[contador];
-                System.out.println("[" + numerosDigitados[contador] + "]");
+                vetor[contador] = numerosDigitados;
+                System.out.println("Índice: " + contador + ". Valor inserido: [" + numerosDigitados + "]");
+            }
+        }
+
+        System.out.print("REMOVA um número da lista: ");
+        int numeroRemovido = teclado.nextInt();
+        for (int contador = 0; contador <5; contador++) {
+            if (vetor[contador] == numeroRemovido) {
+
+                vetor[contador] = 0;
+                System.out.print("A nova lista: ");
+                for (int num: vetor) {
+                    System.out.print(num + " ");
+                }
             }
         }
     }
