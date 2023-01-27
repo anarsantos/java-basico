@@ -1,5 +1,6 @@
 package com.company;
 
+import java.util.Arrays;
 import java.util.Scanner;
 
 public class VetorOpcoes {
@@ -30,7 +31,14 @@ public class VetorOpcoes {
                 for (int num: vetor) {
                     System.out.print(num + " ");
                 }
+                System.out.print("\n");
             }
+        }
+
+        Arrays.sort(vetor);
+        System.out.print("Colocar em ordem crescente: ");
+        for (int num: vetor) {
+            System.out.print(num + " ");
         }
     }
 }
