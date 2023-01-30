@@ -10,8 +10,12 @@ public class OperadoresAritimeticos {
 
         //Incremento - o 5 passa a ser 6
         /*int numero = 5;
-        numero++;
+        numero++; // numero = numero + 1;
         System.out.println(numero);*/
+
+        /*int i = 10;
+        System.out.println(i++);
+        System.out.println(i);*/
 
         //Decremento - o 5 passa a ser 4
         /*int numero = 5;
@@ -31,9 +35,9 @@ public class OperadoresAritimeticos {
         System.out.println(numero);*/
 
         //Pré incremento - o cálculo é relizado antes. O resultado será 11.
-        /*int numero = 5;
+        int numero = 5;
         int valor = 5 + ++numero;
-        System.out.println(valor);*/
+        System.out.println(valor);
 
         // Operadores de atribuição - o resultado é 6.
         /*int x = 4;

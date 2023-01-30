@@ -41,8 +41,8 @@ public class Vetor10Posicoes {
             int numeroUnico = -1;
             for (int j = i + 1; j < 10; j++) {
                 if (vetor[j] == numeroAleatorio) {
-                    //System.out.println("Número repetido: " + numeroUnico);
-                    //break;
+                    numeroAleatorio = random.nextInt(10);
+                    break;
                 } else {
                     numeroUnico = numeroAleatorio;
 
@@ -50,7 +50,7 @@ public class Vetor10Posicoes {
             }
             for (int j = i + 1; j < 10; j++) {
                 if (vetor[i] == -1) {
-                    vetor[i] = numeroAleatorio.;
+                    vetor[i] = numeroAleatorio;
                 }
             }
         }
