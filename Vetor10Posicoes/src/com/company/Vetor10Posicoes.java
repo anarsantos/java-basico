@@ -38,35 +38,6 @@ public class Vetor10Posicoes {
                 System.out.println("O valor 5 encontra-se na posicao: " + i);
             }
         }
-
-        //Exibe o -1 no lugar dos números repetidos
-        for (int contador = 0; contador < 10; contador++) {
-            System.out.print(vetor[contador] + " ");
-        }
-        System.out.println("\n");
-
-        //Substituir o número repetido
-        for (int i = 0; i <10; i++) {
-            int numeroAleatorio = random.nextInt(10);
-            int numeroUnico = -1;
-            for (int j = i + 1; j < 10; j++) {
-                if (vetor[j] == numeroAleatorio) {
-                    numeroAleatorio = random.nextInt(10);
-                    break;
-                } else {
-                    numeroUnico = numeroAleatorio;
-
-                }
-            }
-            for (int j = i + 1; j < 10; j++) {
-                if (vetor[i] == -1) {
-                    vetor[i] = numeroAleatorio;
-                }
-            }
-        }
-
-        for (int contador = 0; contador < 10; contador++) {
-            System.out.print(vetor[contador] + " ");
-        }*/
     }
 }
+
