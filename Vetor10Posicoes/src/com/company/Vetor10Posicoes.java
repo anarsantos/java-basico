@@ -39,14 +39,6 @@ public class Vetor10Posicoes {
             }
         }
 
-        //Verificar repetição
-        /*for (int i = 0; i <10; i++) {
-            for (int j = i + 1; j < 10; j++) {
-                if (vetor[i] == vetor[j]) {
-                    vetor[j] = -1;
-                }
-            }
-        }
         //Exibe o -1 no lugar dos números repetidos
         for (int contador = 0; contador < 10; contador++) {
             System.out.print(vetor[contador] + " ");

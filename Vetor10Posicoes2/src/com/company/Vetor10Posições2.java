@@ -2,7 +2,11 @@ package com.company;
 
 import java.util.Random;
 
-public class Vetor10Posições {
+/*Programa: preencher um vetor de 10 posições com números aleatórios de 0 a 9.
+Os números não podem se repetir. Peça para mostrar a posição do valor 5.
+ */
+
+public class Vetor10Posições2 {
     public static void main(String[] args) {
         int vetor[] = new int[10];
         int numero = 0;
