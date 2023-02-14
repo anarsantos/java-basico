@@ -32,6 +32,13 @@ public class Vetor10Posicoes {
         }
         System.out.println("\n");
 
+        //A posição do valor 5:
+        for (int i = 0; i < 10; i++) {
+            if (vetor[i] == 5) {
+                System.out.println("O valor 5 encontra-se na posicao: " + i);
+            }
+        }
+
         //Verificar repetição
         /*for (int i = 0; i <10; i++) {
             for (int j = i + 1; j < 10; j++) {
